@@ -1,0 +1,35 @@
+[project]
+name = "analysis"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "demucs>=4.0.1",
+    "faster-whisper>=1.1",
+    "nvidia-cublas-cu12",
+    "nvidia-cudnn-cu12>=9,<10",
+    "librosa",
+    "matplotlib",
+    "numba",
+    "numpy",
+    "scipy",
+    "soundfile",
+    "soxr",
+    "torch",
+    "torchaudio",
+]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.uv]
+package = false
+
+# CUDA wheels. The RTX 3060 Ti's driver (572.70) supports CUDA <= 12.8, so cu128 is the newest usable index.
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu128" }]
+torchaudio = [{ index = "pytorch-cu128" }]
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true

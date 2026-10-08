@@ -1,0 +1,17 @@
+# source audio (copyrighted; keep local)
+audio/
+# reference clone of mexicat/pdoom-video
+reference/
+# analysis artefacts
+analysis/stems/
+analysis/.cache/
+analysis/.venv/
+__pycache__/
+# app
+node_modules/
+.vite-cache/
+dist/
+out/
+analysis/work/
+analysis/qa/
+.superpowers/

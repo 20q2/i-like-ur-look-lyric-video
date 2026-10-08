@@ -1,0 +1,1832 @@
+{
+  "lines": [
+    {
+      "i": 0,
+      "text": "Better",
+      "section": "intro1",
+      "start": 7.38,
+      "end": 8.087,
+      "words": [
+        {
+          "w": "Better",
+          "start": 7.38,
+          "end": 8.087,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "text": "I wear my patent leather boots",
+      "section": "verse1",
+      "start": 8.087,
+      "end": 11.66,
+      "words": [
+        {
+          "w": "I",
+          "start": 8.087,
+          "end": 8.26,
+          "conf": 0.6
+        },
+        {
+          "w": "wear",
+          "start": 8.26,
+          "end": 8.76,
+          "conf": 0.64
+        },
+        {
+          "w": "my",
+          "start": 8.92,
+          "end": 9.069,
+          "conf": 0.83
+        },
+        {
+          "w": "patent",
+          "start": 9.14,
+          "end": 10.12,
+          "conf": 0.75
+        },
+        {
+          "w": "leather",
+          "start": 10.12,
+          "end": 10.855,
+          "conf": 0.73
+        },
+        {
+          "w": "boots",
+          "start": 10.92,
+          "end": 11.66,
+          "conf": 0.76
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "text": "I know that I'll run into you",
+      "section": "verse1",
+      "start": 11.66,
+      "end": 14.981,
+      "words": [
+        {
+          "w": "I",
+          "start": 11.66,
+          "end": 11.84,
+          "conf": 0.67
+        },
+        {
+          "w": "know",
+          "start": 11.84,
+          "end": 12.342,
+          "conf": 0.68
+        },
+        {
+          "w": "that",
+          "start": 12.457,
+          "end": 12.836,
+          "conf": 0.73
+        },
+        {
+          "w": "I'll",
+          "start": 12.836,
+          "end": 13.12,
+          "conf": 0.58
+        },
+        {
+          "w": "run",
+          "start": 13.12,
+          "end": 13.76,
+          "conf": 0.78
+        },
+        {
+          "w": "into",
+          "start": 13.76,
+          "end": 14.58,
+          "conf": 0.67
+        },
+        {
+          "w": "you",
+          "start": 14.58,
+          "end": 14.981,
+          "conf": 0.66
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "text": "I wear my blush 'cause I'm a doll",
+      "section": "verse1",
+      "start": 15.2,
+      "end": 18.603,
+      "words": [
+        {
+          "w": "I",
+          "start": 15.2,
+          "end": 15.42,
+          "conf": 0.6
+        },
+        {
+          "w": "wear",
+          "start": 15.42,
+          "end": 15.929,
+          "conf": 0.67
+        },
+        {
+          "w": "my",
+          "start": 16.1,
+          "end": 16.263,
+          "conf": 0.81
+        },
+        {
+          "w": "blush",
+          "start": 16.3,
+          "end": 16.842,
+          "conf": 0.74
+        },
+        {
+          "w": "'cause",
+          "start": 16.9,
+          "end": 17.25,
+          "conf": 0.89
+        },
+        {
+          "w": "I'm",
+          "start": 17.27,
+          "end": 17.72,
+          "conf": 0.6
+        },
+        {
+          "w": "a",
+          "start": 17.904,
+          "end": 17.989,
+          "conf": 0.76
+        },
+        {
+          "w": "doll",
+          "start": 18.12,
+          "end": 18.603,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "text": "And then I tease my hair all tall, baby",
+      "section": "verse1",
+      "start": 18.787,
+      "end": 22.594,
+      "words": [
+        {
+          "w": "And",
+          "start": 18.787,
+          "end": 18.962,
+          "conf": 0.76
+        },
+        {
+          "w": "then",
+          "start": 19.0,
+          "end": 19.491,
+          "conf": 0.74
+        },
+        {
+          "w": "I",
+          "start": 19.585,
+          "end": 19.85,
+          "conf": 0.68
+        },
+        {
+          "w": "tease",
+          "start": 19.9,
+          "end": 20.603,
+          "conf": 0.71
+        },
+        {
+          "w": "my",
+          "start": 20.603,
+          "end": 20.703,
+          "conf": 0.68
+        },
+        {
+          "w": "hair",
+          "start": 20.703,
+          "end": 21.287,
+          "conf": 0.91
+        },
+        {
+          "w": "all",
+          "start": 21.451,
+          "end": 21.66,
+          "conf": 0.68
+        },
+        {
+          "w": "tall,",
+          "start": 21.66,
+          "end": 22.14,
+          "conf": 0.79
+        },
+        {
+          "w": "baby",
+          "start": 22.14,
+          "end": 22.594,
+          "conf": 0.6
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "text": "Tonight, just pretend",
+      "section": "prechorus1",
+      "start": 23.22,
+      "end": 26.121,
+      "words": [
+        {
+          "w": "Tonight,",
+          "start": 23.22,
+          "end": 24.105,
+          "conf": 0.62
+        },
+        {
+          "w": "just",
+          "start": 24.105,
+          "end": 24.584,
+          "conf": 0.67
+        },
+        {
+          "w": "pretend",
+          "start": 24.64,
+          "end": 26.121,
+          "conf": 0.75
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "text": "That she's dead and gone",
+      "section": "prechorus1",
+      "start": 26.769,
+      "end": 30.037,
+      "words": [
+        {
+          "w": "That",
+          "start": 26.769,
+          "end": 27.24,
+          "conf": 0.56
+        },
+        {
+          "w": "she's",
+          "start": 27.24,
+          "end": 27.707,
+          "conf": 0.69
+        },
+        {
+          "w": "dead",
+          "start": 27.76,
+          "end": 28.16,
+          "conf": 0.76
+        },
+        {
+          "w": "and",
+          "start": 28.16,
+          "end": 28.46,
+          "conf": 0.49
+        },
+        {
+          "w": "gone",
+          "start": 28.46,
+          "end": 30.037,
+          "conf": 0.73
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "text": "Tell me y'all are done",
+      "section": "prechorus1",
+      "start": 30.4,
+      "end": 33.84,
+      "words": [
+        {
+          "w": "Tell",
+          "start": 30.4,
+          "end": 30.92,
+          "conf": 0.92
+        },
+        {
+          "w": "me",
+          "start": 30.92,
+          "end": 31.34,
+          "conf": 0.85
+        },
+        {
+          "w": "y'all",
+          "start": 31.34,
+          "end": 31.9,
+          "conf": 0.82
+        },
+        {
+          "w": "are",
+          "start": 31.9,
+          "end": 32.06,
+          "conf": 0.78
+        },
+        {
+          "w": "done",
+          "start": 32.06,
+          "end": 33.84,
+          "conf": 0.75
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "text": "It could be so fun",
+      "section": "prechorus1",
+      "start": 33.84,
+      "end": 35.509,
+      "words": [
+        {
+          "w": "It",
+          "start": 33.84,
+          "end": 34.0,
+          "conf": 0.7
+        },
+        {
+          "w": "could",
+          "start": 34.0,
+          "end": 34.157,
+          "conf": 0.73
+        },
+        {
+          "w": "be",
+          "start": 34.22,
+          "end": 34.387,
+          "conf": 0.73
+        },
+        {
+          "w": "so",
+          "start": 34.387,
+          "end": 34.811,
+          "conf": 0.86
+        },
+        {
+          "w": "fun",
+          "start": 34.811,
+          "end": 35.509,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "text": "'Cause I like your look, it's so extreme",
+      "section": "chorus1",
+      "start": 35.58,
+      "end": 39.311,
+      "words": [
+        {
+          "w": "'Cause",
+          "start": 35.58,
+          "end": 35.883,
+          "conf": 0.71
+        },
+        {
+          "w": "I",
+          "start": 35.883,
+          "end": 36.06,
+          "conf": 0.7
+        },
+        {
+          "w": "like",
+          "start": 36.06,
+          "end": 36.54,
+          "conf": 0.79
+        },
+        {
+          "w": "your",
+          "start": 36.54,
+          "end": 36.94,
+          "conf": 0.8
+        },
+        {
+          "w": "look,",
+          "start": 36.94,
+          "end": 37.255,
+          "conf": 0.8
+        },
+        {
+          "w": "it's",
+          "start": 37.64,
+          "end": 37.779,
+          "conf": 0.74
+        },
+        {
+          "w": "so",
+          "start": 37.779,
+          "end": 38.133,
+          "conf": 0.92
+        },
+        {
+          "w": "extreme",
+          "start": 38.48,
+          "end": 39.311,
+          "conf": 0.59
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "text": "You walk the street so effortlessly",
+      "section": "chorus1",
+      "start": 39.311,
+      "end": 42.768,
+      "words": [
+        {
+          "w": "You",
+          "start": 39.311,
+          "end": 39.62,
+          "conf": 0.84
+        },
+        {
+          "w": "walk",
+          "start": 39.62,
+          "end": 40.014,
+          "conf": 0.75
+        },
+        {
+          "w": "the",
+          "start": 40.06,
+          "end": 40.328,
+          "conf": 0.72
+        },
+        {
+          "w": "street",
+          "start": 40.328,
+          "end": 40.987,
+          "conf": 0.78
+        },
+        {
+          "w": "so",
+          "start": 41.112,
+          "end": 41.42,
+          "conf": 0.8
+        },
+        {
+          "w": "effortlessly",
+          "start": 41.42,
+          "end": 42.768,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "text": "She wears you well, but can't you see?",
+      "section": "chorus1",
+      "start": 42.932,
+      "end": 46.544,
+      "words": [
+        {
+          "w": "She",
+          "start": 42.932,
+          "end": 43.18,
+          "conf": 0.85
+        },
+        {
+          "w": "wears",
+          "start": 43.18,
+          "end": 43.68,
+          "conf": 0.77
+        },
+        {
+          "w": "you",
+          "start": 43.68,
+          "end": 44.06,
+          "conf": 0.74
+        },
+        {
+          "w": "well,",
+          "start": 44.06,
+          "end": 44.499,
+          "conf": 0.72
+        },
+        {
+          "w": "but",
+          "start": 44.604,
+          "end": 44.878,
+          "conf": 0.85
+        },
+        {
+          "w": "can't",
+          "start": 44.96,
+          "end": 45.52,
+          "conf": 0.72
+        },
+        {
+          "w": "you",
+          "start": 45.52,
+          "end": 45.756,
+          "conf": 0.81
+        },
+        {
+          "w": "see?",
+          "start": 45.756,
+          "end": 46.544,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "text": "That you definitely look better on me, yeah",
+      "section": "chorus1",
+      "start": 46.699,
+      "end": 52.855,
+      "words": [
+        {
+          "w": "That",
+          "start": 46.699,
+          "end": 47.26,
+          "conf": 0.77
+        },
+        {
+          "w": "you",
+          "start": 47.26,
+          "end": 47.68,
+          "conf": 0.69
+        },
+        {
+          "w": "definitely",
+          "start": 47.68,
+          "end": 49.06,
+          "conf": 0.72
+        },
+        {
+          "w": "look",
+          "start": 49.06,
+          "end": 49.378,
+          "conf": 0.74
+        },
+        {
+          "w": "better",
+          "start": 49.378,
+          "end": 50.04,
+          "conf": 0.81
+        },
+        {
+          "w": "on",
+          "start": 50.04,
+          "end": 50.16,
+          "conf": 0.69
+        },
+        {
+          "w": "me,",
+          "start": 50.16,
+          "end": 50.84,
+          "conf": 0.86
+        },
+        {
+          "w": "yeah",
+          "start": 50.84,
+          "end": 52.855,
+          "conf": 0.52
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "text": "I want you to dress just for me",
+      "section": "verse2",
+      "start": 52.855,
+      "end": 56.207,
+      "words": [
+        {
+          "w": "I",
+          "start": 52.855,
+          "end": 53.06,
+          "conf": 0.76
+        },
+        {
+          "w": "want",
+          "start": 53.06,
+          "end": 53.523,
+          "conf": 0.78
+        },
+        {
+          "w": "you",
+          "start": 53.72,
+          "end": 53.9,
+          "conf": 0.77
+        },
+        {
+          "w": "to",
+          "start": 53.9,
+          "end": 54.426,
+          "conf": 0.9
+        },
+        {
+          "w": "dress",
+          "start": 54.56,
+          "end": 54.82,
+          "conf": 0.76
+        },
+        {
+          "w": "just",
+          "start": 54.82,
+          "end": 55.304,
+          "conf": 0.86
+        },
+        {
+          "w": "for",
+          "start": 55.444,
+          "end": 55.76,
+          "conf": 0.8
+        },
+        {
+          "w": "me",
+          "start": 55.76,
+          "end": 56.207,
+          "conf": 0.69
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "text": "Your Acqua Di Gio on my sheets",
+      "section": "verse2",
+      "start": 56.4,
+      "end": 59.859,
+      "words": [
+        {
+          "w": "Your",
+          "start": 56.4,
+          "end": 56.581,
+          "conf": 0.85
+        },
+        {
+          "w": "Acqua",
+          "start": 56.72,
+          "end": 57.54,
+          "conf": 0.68
+        },
+        {
+          "w": "Di",
+          "start": 57.54,
+          "end": 58.013,
+          "conf": 0.62
+        },
+        {
+          "w": "Gio",
+          "start": 58.14,
+          "end": 58.72,
+          "conf": 0.68
+        },
+        {
+          "w": "on",
+          "start": 58.72,
+          "end": 59.1,
+          "conf": 0.69
+        },
+        {
+          "w": "my",
+          "start": 59.1,
+          "end": 59.225,
+          "conf": 0.77
+        },
+        {
+          "w": "sheets",
+          "start": 59.225,
+          "end": 59.859,
+          "conf": 0.88
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "text": "But you're already on a leash",
+      "section": "verse2",
+      "start": 59.98,
+      "end": 63.536,
+      "words": [
+        {
+          "w": "But",
+          "start": 59.98,
+          "end": 60.22,
+          "conf": 0.81
+        },
+        {
+          "w": "you're",
+          "start": 60.22,
+          "end": 60.797,
+          "conf": 0.76
+        },
+        {
+          "w": "already",
+          "start": 60.931,
+          "end": 61.59,
+          "conf": 0.68
+        },
+        {
+          "w": "on",
+          "start": 62.004,
+          "end": 62.488,
+          "conf": 0.63
+        },
+        {
+          "w": "a",
+          "start": 62.653,
+          "end": 62.94,
+          "conf": 0.63
+        },
+        {
+          "w": "leash",
+          "start": 62.94,
+          "end": 63.536,
+          "conf": 0.69
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "text": "So that's unfortunate for me, baby",
+      "section": "verse2",
+      "start": 63.536,
+      "end": 67.4,
+      "words": [
+        {
+          "w": "So",
+          "start": 63.536,
+          "end": 63.84,
+          "conf": 0.61
+        },
+        {
+          "w": "that's",
+          "start": 63.84,
+          "end": 64.299,
+          "conf": 0.89
+        },
+        {
+          "w": "unfortunate",
+          "start": 64.5,
+          "end": 66.06,
+          "conf": 0.75
+        },
+        {
+          "w": "for",
+          "start": 66.095,
+          "end": 66.46,
+          "conf": 0.73
+        },
+        {
+          "w": "me,",
+          "start": 66.46,
+          "end": 66.963,
+          "conf": 0.74
+        },
+        {
+          "w": "baby",
+          "start": 66.963,
+          "end": 67.4,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "text": "Tonight, just pretend",
+      "section": "prechorus2",
+      "start": 68.0,
+      "end": 70.95,
+      "words": [
+        {
+          "w": "Tonight,",
+          "start": 68.0,
+          "end": 68.883,
+          "conf": 0.75
+        },
+        {
+          "w": "just",
+          "start": 68.883,
+          "end": 69.4,
+          "conf": 0.75
+        },
+        {
+          "w": "pretend",
+          "start": 69.4,
+          "end": 70.95,
+          "conf": 0.73
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "text": "That she's dead and gone",
+      "section": "prechorus2",
+      "start": 71.56,
+      "end": 74.835,
+      "words": [
+        {
+          "w": "That",
+          "start": 71.56,
+          "end": 72.0,
+          "conf": 0.71
+        },
+        {
+          "w": "she's",
+          "start": 72.016,
+          "end": 72.54,
+          "conf": 0.57
+        },
+        {
+          "w": "dead",
+          "start": 72.54,
+          "end": 73.303,
+          "conf": 0.91
+        },
+        {
+          "w": "and",
+          "start": 73.303,
+          "end": 73.94,
+          "conf": 0.46
+        },
+        {
+          "w": "gone",
+          "start": 73.94,
+          "end": 74.835,
+          "conf": 0.63
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "text": "Tell me y'all are done",
+      "section": "prechorus2",
+      "start": 75.16,
+      "end": 78.64,
+      "words": [
+        {
+          "w": "Tell",
+          "start": 75.16,
+          "end": 75.7,
+          "conf": 0.78
+        },
+        {
+          "w": "me",
+          "start": 75.7,
+          "end": 76.14,
+          "conf": 0.8
+        },
+        {
+          "w": "y'all",
+          "start": 76.14,
+          "end": 76.66,
+          "conf": 0.79
+        },
+        {
+          "w": "are",
+          "start": 76.66,
+          "end": 76.84,
+          "conf": 0.71
+        },
+        {
+          "w": "done",
+          "start": 76.84,
+          "end": 78.64,
+          "conf": 0.6
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "text": "It could be so fun",
+      "section": "prechorus2",
+      "start": 78.64,
+      "end": 80.402,
+      "words": [
+        {
+          "w": "It",
+          "start": 78.64,
+          "end": 78.78,
+          "conf": 0.6
+        },
+        {
+          "w": "could",
+          "start": 78.78,
+          "end": 78.98,
+          "conf": 0.7
+        },
+        {
+          "w": "be",
+          "start": 78.98,
+          "end": 79.165,
+          "conf": 0.71
+        },
+        {
+          "w": "so",
+          "start": 79.165,
+          "end": 79.584,
+          "conf": 0.82
+        },
+        {
+          "w": "fun",
+          "start": 79.584,
+          "end": 80.402,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "text": "'Cause I like your look, it's so extreme",
+      "section": "chorus2",
+      "start": 80.402,
+      "end": 84.18,
+      "words": [
+        {
+          "w": "'Cause",
+          "start": 80.402,
+          "end": 80.662,
+          "conf": 0.7
+        },
+        {
+          "w": "I",
+          "start": 80.662,
+          "end": 80.82,
+          "conf": 0.67
+        },
+        {
+          "w": "like",
+          "start": 80.82,
+          "end": 81.3,
+          "conf": 0.79
+        },
+        {
+          "w": "your",
+          "start": 81.3,
+          "end": 81.7,
+          "conf": 0.81
+        },
+        {
+          "w": "look,",
+          "start": 81.7,
+          "end": 82.163,
+          "conf": 0.67
+        },
+        {
+          "w": "it's",
+          "start": 82.273,
+          "end": 82.517,
+          "conf": 0.7
+        },
+        {
+          "w": "so",
+          "start": 82.517,
+          "end": 82.917,
+          "conf": 0.96
+        },
+        {
+          "w": "extreme",
+          "start": 83.22,
+          "end": 84.18,
+          "conf": 0.78
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "text": "You walk the street so effortlessly",
+      "section": "chorus2",
+      "start": 84.18,
+      "end": 87.541,
+      "words": [
+        {
+          "w": "You",
+          "start": 84.18,
+          "end": 84.38,
+          "conf": 0.83
+        },
+        {
+          "w": "walk",
+          "start": 84.38,
+          "end": 84.787,
+          "conf": 0.78
+        },
+        {
+          "w": "the",
+          "start": 84.84,
+          "end": 85.107,
+          "conf": 0.74
+        },
+        {
+          "w": "street",
+          "start": 85.107,
+          "end": 85.735,
+          "conf": 0.85
+        },
+        {
+          "w": "so",
+          "start": 85.89,
+          "end": 86.2,
+          "conf": 0.84
+        },
+        {
+          "w": "effortlessly",
+          "start": 86.2,
+          "end": 87.541,
+          "conf": 0.66
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "text": "She wears you well, but can't you see?",
+      "section": "chorus2",
+      "start": 87.72,
+      "end": 91.337,
+      "words": [
+        {
+          "w": "She",
+          "start": 87.72,
+          "end": 87.96,
+          "conf": 0.76
+        },
+        {
+          "w": "wears",
+          "start": 87.96,
+          "end": 88.46,
+          "conf": 0.77
+        },
+        {
+          "w": "you",
+          "start": 88.46,
+          "end": 88.8,
+          "conf": 0.8
+        },
+        {
+          "w": "well,",
+          "start": 88.8,
+          "end": 89.292,
+          "conf": 0.76
+        },
+        {
+          "w": "but",
+          "start": 89.52,
+          "end": 89.636,
+          "conf": 0.85
+        },
+        {
+          "w": "can't",
+          "start": 89.72,
+          "end": 90.28,
+          "conf": 0.9
+        },
+        {
+          "w": "you",
+          "start": 90.28,
+          "end": 90.524,
+          "conf": 1.0
+        },
+        {
+          "w": "see?",
+          "start": 90.524,
+          "end": 91.337,
+          "conf": 0.79
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "text": "That you definitely look better on me, yeah",
+      "section": "chorus2",
+      "start": 91.472,
+      "end": 96.18,
+      "words": [
+        {
+          "w": "That",
+          "start": 91.472,
+          "end": 92.06,
+          "conf": 0.8
+        },
+        {
+          "w": "you",
+          "start": 92.06,
+          "end": 92.46,
+          "conf": 0.84
+        },
+        {
+          "w": "definitely",
+          "start": 92.46,
+          "end": 93.84,
+          "conf": 0.74
+        },
+        {
+          "w": "look",
+          "start": 93.84,
+          "end": 94.156,
+          "conf": 0.8
+        },
+        {
+          "w": "better",
+          "start": 94.156,
+          "end": 94.64,
+          "conf": 0.83
+        },
+        {
+          "w": "on",
+          "start": 94.64,
+          "end": 94.92,
+          "conf": 0.67
+        },
+        {
+          "w": "me,",
+          "start": 94.92,
+          "end": 95.62,
+          "conf": 0.6
+        },
+        {
+          "w": "yeah",
+          "start": 95.62,
+          "end": 96.18,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "text": "So extreme",
+      "section": "postchorus1",
+      "start": 96.52,
+      "end": 97.32,
+      "words": [
+        {
+          "w": "So",
+          "start": 96.52,
+          "end": 96.78,
+          "conf": 0.45
+        },
+        {
+          "w": "extreme",
+          "start": 96.78,
+          "end": 97.32,
+          "conf": 0.45
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "text": "So effortlessly",
+      "section": "postchorus1",
+      "start": 105.54,
+      "end": 107.171,
+      "words": [
+        {
+          "w": "So",
+          "start": 105.54,
+          "end": 105.68,
+          "conf": 0.59
+        },
+        {
+          "w": "effortlessly",
+          "start": 105.7,
+          "end": 107.171,
+          "conf": 0.58
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "text": "He looks better, b-better on, on me",
+      "section": "bridge1",
+      "start": 113.02,
+      "end": 116.64,
+      "words": [
+        {
+          "w": "He",
+          "start": 113.02,
+          "end": 113.432,
+          "conf": 0.8
+        },
+        {
+          "w": "looks",
+          "start": 113.432,
+          "end": 113.94,
+          "conf": 0.79
+        },
+        {
+          "w": "better,",
+          "start": 113.94,
+          "end": 114.45,
+          "conf": 0.73
+        },
+        {
+          "w": "b-better",
+          "start": 114.45,
+          "end": 115.478,
+          "conf": 0.57,
+          "syl": [
+            [
+              114.45,
+              114.62
+            ],
+            [
+              114.62,
+              115.478
+            ]
+          ]
+        },
+        {
+          "w": "on,",
+          "start": 115.478,
+          "end": 115.58,
+          "conf": 0.44
+        },
+        {
+          "w": "on",
+          "start": 115.58,
+          "end": 115.78,
+          "conf": 0.7
+        },
+        {
+          "w": "me",
+          "start": 115.78,
+          "end": 116.64,
+          "conf": 0.77
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "text": "He looks better, b-better on, on me",
+      "section": "bridge1",
+      "start": 116.64,
+      "end": 119.823,
+      "words": [
+        {
+          "w": "He",
+          "start": 116.64,
+          "end": 117.049,
+          "conf": 0.77
+        },
+        {
+          "w": "looks",
+          "start": 117.049,
+          "end": 117.54,
+          "conf": 0.78
+        },
+        {
+          "w": "better,",
+          "start": 117.54,
+          "end": 118.0,
+          "conf": 0.73
+        },
+        {
+          "w": "b-better",
+          "start": 118.0,
+          "end": 118.63,
+          "conf": 0.89,
+          "syl": [
+            [
+              118.0,
+              118.22
+            ],
+            [
+              118.22,
+              118.63
+            ]
+          ]
+        },
+        {
+          "w": "on,",
+          "start": 118.63,
+          "end": 119.044,
+          "conf": 0.62
+        },
+        {
+          "w": "on",
+          "start": 119.044,
+          "end": 119.304,
+          "conf": 0.7
+        },
+        {
+          "w": "me",
+          "start": 119.304,
+          "end": 119.823,
+          "conf": 0.68
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "text": "He looks better, b-better on, on me",
+      "section": "bridge1",
+      "start": 120.012,
+      "end": 123.794,
+      "words": [
+        {
+          "w": "He",
+          "start": 120.012,
+          "end": 120.7,
+          "conf": 0.64
+        },
+        {
+          "w": "looks",
+          "start": 120.7,
+          "end": 121.12,
+          "conf": 0.64
+        },
+        {
+          "w": "better,",
+          "start": 121.12,
+          "end": 121.58,
+          "conf": 0.65
+        },
+        {
+          "w": "b-better",
+          "start": 121.58,
+          "end": 122.42,
+          "conf": 0.7,
+          "syl": [
+            [
+              121.58,
+              121.78
+            ],
+            [
+              121.78,
+              122.42
+            ]
+          ]
+        },
+        {
+          "w": "on,",
+          "start": 122.42,
+          "end": 122.76,
+          "conf": 0.61
+        },
+        {
+          "w": "on",
+          "start": 122.76,
+          "end": 122.94,
+          "conf": 0.66
+        },
+        {
+          "w": "me",
+          "start": 122.94,
+          "end": 123.794,
+          "conf": 0.71
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "text": "He looks better, b-better on, on me",
+      "section": "bridge1",
+      "start": 123.794,
+      "end": 126.82,
+      "words": [
+        {
+          "w": "He",
+          "start": 123.794,
+          "end": 124.26,
+          "conf": 0.75
+        },
+        {
+          "w": "looks",
+          "start": 124.26,
+          "end": 124.68,
+          "conf": 0.63
+        },
+        {
+          "w": "better,",
+          "start": 124.68,
+          "end": 125.14,
+          "conf": 0.65
+        },
+        {
+          "w": "b-better",
+          "start": 125.14,
+          "end": 125.874,
+          "conf": 0.62,
+          "syl": [
+            [
+              125.14,
+              125.36
+            ],
+            [
+              125.36,
+              125.874
+            ]
+          ]
+        },
+        {
+          "w": "on,",
+          "start": 125.874,
+          "end": 126.088,
+          "conf": 0.61
+        },
+        {
+          "w": "on",
+          "start": 126.188,
+          "end": 126.52,
+          "conf": 0.58
+        },
+        {
+          "w": "me",
+          "start": 126.52,
+          "end": 126.82,
+          "conf": 0.55
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "text": "Yeah",
+      "section": "bridge1",
+      "start": 126.82,
+      "end": 126.97,
+      "words": [
+        {
+          "w": "Yeah",
+          "start": 126.82,
+          "end": 126.97,
+          "conf": 0.55
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "text": "I like your look, it's so extreme",
+      "section": "chorus3",
+      "start": 134.365,
+      "end": 137.717,
+      "words": [
+        {
+          "w": "I",
+          "start": 134.365,
+          "end": 134.54,
+          "conf": 0.61
+        },
+        {
+          "w": "like",
+          "start": 134.54,
+          "end": 135.04,
+          "conf": 0.53
+        },
+        {
+          "w": "your",
+          "start": 135.04,
+          "end": 135.42,
+          "conf": 0.55
+        },
+        {
+          "w": "look,",
+          "start": 135.42,
+          "end": 135.911,
+          "conf": 0.64
+        },
+        {
+          "w": "it's",
+          "start": 136.14,
+          "end": 136.3,
+          "conf": 0.44
+        },
+        {
+          "w": "so",
+          "start": 136.3,
+          "end": 136.704,
+          "conf": 0.89
+        },
+        {
+          "w": "extreme",
+          "start": 136.96,
+          "end": 137.717,
+          "conf": 0.67
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "text": "You walk the street so effortlessly",
+      "section": "chorus3",
+      "start": 137.92,
+      "end": 141.274,
+      "words": [
+        {
+          "w": "You",
+          "start": 137.92,
+          "end": 138.146,
+          "conf": 0.75
+        },
+        {
+          "w": "walk",
+          "start": 138.146,
+          "end": 138.52,
+          "conf": 0.69
+        },
+        {
+          "w": "the",
+          "start": 138.58,
+          "end": 138.834,
+          "conf": 0.71
+        },
+        {
+          "w": "street",
+          "start": 138.834,
+          "end": 139.498,
+          "conf": 0.8
+        },
+        {
+          "w": "so",
+          "start": 139.623,
+          "end": 139.932,
+          "conf": 0.72
+        },
+        {
+          "w": "effortlessly",
+          "start": 139.932,
+          "end": 141.274,
+          "conf": 0.61
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "text": "She wears you well but can't you see?",
+      "section": "chorus3",
+      "start": 141.374,
+      "end": 145.09,
+      "words": [
+        {
+          "w": "She",
+          "start": 141.374,
+          "end": 141.7,
+          "conf": 0.69
+        },
+        {
+          "w": "wears",
+          "start": 141.7,
+          "end": 142.18,
+          "conf": 0.69
+        },
+        {
+          "w": "you",
+          "start": 142.18,
+          "end": 142.58,
+          "conf": 0.69
+        },
+        {
+          "w": "well",
+          "start": 142.58,
+          "end": 143.01,
+          "conf": 0.61
+        },
+        {
+          "w": "but",
+          "start": 143.11,
+          "end": 143.379,
+          "conf": 0.8
+        },
+        {
+          "w": "can't",
+          "start": 143.46,
+          "end": 143.96,
+          "conf": 0.88
+        },
+        {
+          "w": "you",
+          "start": 143.96,
+          "end": 144.257,
+          "conf": 0.87
+        },
+        {
+          "w": "see?",
+          "start": 144.257,
+          "end": 145.09,
+          "conf": 0.73
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "text": "That you definitely look better on me, yeah",
+      "section": "chorus3",
+      "start": 145.205,
+      "end": 150.12,
+      "words": [
+        {
+          "w": "That",
+          "start": 145.205,
+          "end": 145.78,
+          "conf": 0.75
+        },
+        {
+          "w": "you",
+          "start": 145.78,
+          "end": 146.18,
+          "conf": 0.7
+        },
+        {
+          "w": "definitely",
+          "start": 146.18,
+          "end": 147.58,
+          "conf": 0.7
+        },
+        {
+          "w": "look",
+          "start": 147.58,
+          "end": 147.884,
+          "conf": 0.74
+        },
+        {
+          "w": "better",
+          "start": 147.884,
+          "end": 148.54,
+          "conf": 0.75
+        },
+        {
+          "w": "on",
+          "start": 148.54,
+          "end": 148.64,
+          "conf": 0.69
+        },
+        {
+          "w": "me,",
+          "start": 148.64,
+          "end": 149.32,
+          "conf": 0.84
+        },
+        {
+          "w": "yeah",
+          "start": 149.32,
+          "end": 150.12,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "text": "So extreme",
+      "section": "postchorus2",
+      "start": 151.25,
+      "end": 152.25,
+      "words": [
+        {
+          "w": "So",
+          "start": 151.25,
+          "end": 151.58,
+          "conf": 0.5
+        },
+        {
+          "w": "extreme",
+          "start": 151.6,
+          "end": 152.25,
+          "conf": 0.5
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "text": "So effortlessly",
+      "section": "postchorus2",
+      "start": 155.7,
+      "end": 158.934,
+      "words": [
+        {
+          "w": "So",
+          "start": 155.7,
+          "end": 156.06,
+          "conf": 0.51
+        },
+        {
+          "w": "effortlessly",
+          "start": 156.1,
+          "end": 158.934,
+          "conf": 0.51
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "text": "'Cause you definitely look better on me, yeah",
+      "section": "postchorus2",
+      "start": 159.6,
+      "end": 164.18,
+      "words": [
+        {
+          "w": "'Cause",
+          "start": 159.6,
+          "end": 160.14,
+          "conf": 0.68
+        },
+        {
+          "w": "you",
+          "start": 160.14,
+          "end": 160.5,
+          "conf": 0.66
+        },
+        {
+          "w": "definitely",
+          "start": 160.5,
+          "end": 161.84,
+          "conf": 0.74
+        },
+        {
+          "w": "look",
+          "start": 161.84,
+          "end": 162.201,
+          "conf": 0.62
+        },
+        {
+          "w": "better",
+          "start": 162.201,
+          "end": 162.84,
+          "conf": 0.78
+        },
+        {
+          "w": "on",
+          "start": 162.84,
+          "end": 162.94,
+          "conf": 0.59
+        },
+        {
+          "w": "me,",
+          "start": 162.94,
+          "end": 163.68,
+          "conf": 0.84
+        },
+        {
+          "w": "yeah",
+          "start": 163.68,
+          "end": 164.18,
+          "conf": 0.7
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "text": "Yeah",
+      "section": "outro1",
+      "start": 164.18,
+      "end": 165.853,
+      "words": [
+        {
+          "w": "Yeah",
+          "start": 164.18,
+          "end": 165.853,
+          "conf": 0.65
+        }
+      ]
+    }
+  ],
+  "adlibs": [
+    {
+      "section": "verse2",
+      "text": "-ah"
+    },
+    {
+      "section": "bridge1",
+      "text": "B-better, b-better, b-better, b-better, b-better, b-better"
+    },
+    {
+      "section": "bridge1",
+      "text": "B-b-b-b-b-b—, better, you"
+    },
+    {
+      "section": "chorus3",
+      "text": "Yeah"
+    },
+    {
+      "section": "postchorus2",
+      "text": "Woo"
+    },
+    {
+      "section": "postchorus2",
+      "text": "Looks better, looks better, looks b-b-better"
+    }
+  ],
+  "extras": [
+    {
+      "start": 5.29,
+      "end": 6.84,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 97.73,
+      "end": 98.51,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 108.37,
+      "end": 109.02,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 112.19,
+      "end": 112.92,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    },
+    {
+      "start": 127.07,
+      "end": 134.26,
+      "desc": "unlisted vocal (backing vocal / ad-lib / breath)"
+    }
+  ],
+  "notes": "Timeline = audio/song.wav (ffmpeg decode of the mp3); stems separated from the same file, zero offset. Method: CTC emissions (20 ms) of the Demucs vocal stem from torchaudio MMS_FA and wav2vec2-large-lv60k-960h on the mono sum and L/R channels, fused as a probability mixture; one global constrained Viterbi alignment of all lead lines with a garbage token between lines to absorb ad-libs (parenthesised lyrics, listed under 'adlibs'); signal refinement of word starts/ends on the vocal stem; cross-check against faster-whisper large-v3 word timestamps. conf: 0.35 + agreement of independent alignments + CTC posterior + Whisper agreement. 'syl' = per-part timings of hyphenated tokens (b-better)."
+}
